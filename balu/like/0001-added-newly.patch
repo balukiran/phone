@@ -1,0 +1,18 @@
+From d15f9eedcd11cdb2bcfcb5bf5d129ae887f063cd Mon Sep 17 00:00:00 2001
+From: root <root@master.com>
+Date: Wed, 24 Feb 2016 06:46:42 +0000
+Subject: [PATCH] added newly
+
+---
+ balu/like/hari | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/balu/like/hari b/balu/like/hari
+index e69de29..1af74dd 100644
+--- a/balu/like/hari
++++ b/balu/like/hari
+@@ -0,0 +1 @@
++News changes from my end
+-- 
+1.9.1
+
